@@ -1,6 +1,6 @@
 == README
 
-This is the finance tracker app for the Complete Ruby on Rails Develoepr course on Udemy. In progress...
+This is the finance tracker app for the Complete Ruby on Rails Develoepr course on Udemy. In progress....
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
